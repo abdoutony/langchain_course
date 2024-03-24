@@ -1,15 +1,7 @@
-Chatbot
-
-
- (Weizenbaum 1966, p. 36)
- (Weizenbaum 1966, pp. 44–5)
- GüzeldereFranchi 1995
- Computer History Museum 2006
- Sondheim 1997
- Network Working Group 1973—Transcript of a session between Parry and Eliza. (This is not the dialogue from the ICCC, which took place October 24–26, 1972, whereas this session is from September 18, 1972.)
- www.everything.com 13 November 1999
- ‹See Tfd›(in German) Chatroboter simulieren Menschen
- Beaver, Laurie (July 2016). The Chatbots Explainer. BI Intelligence.
- "Facebook Messenger Hits 100,000 bots". 2017-04-18. Retrieved 2017-09-22.
- "KLM claims airline first with WhatsApp Business Platform".
+Network Working Group 1973—Transcript of a session between Parry and Eliza. 
+www.everything.com 13 November 1999
+‹See Tfd›(in German) Chatroboter simulieren Menschen
+Beaver, Laurie (July 2016). The Chatbots Explainer. BI Intelligence.
+"Facebook Messenger Hits 100,000 bots". 2017-04-18. Retrieved 2017-09-22.
+"KLM claims airline first with WhatsApp Business Platform".
 
