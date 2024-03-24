@@ -34,3 +34,4 @@ async function splitText(url){
 }
 
 // splitText('https://www.gutenberg.org/files/1342/1342-0.txt')
+splitText('https://github.com/abdoutony/langchain_course/blob/master/data/dataset.txt')
